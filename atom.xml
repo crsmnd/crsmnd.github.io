@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2015-01-03T01:36:35.603Z</updated>
+  <updated>2015-01-03T18:41:49.950Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -25,19 +25,6 @@
 ]]></content>
     <summary type="html">
     <![CDATA[<p>When I was attending primary school, I taught myself BASIC on the Amiga. During university I tried myself at basic HTML. More recently, I]]>
-    </summary>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <link href="http://yoursite.com/2014/12/21/Hello-World-0/"/>
-    <id>http://yoursite.com/2014/12/21/Hello-World-0/</id>
-    <published>2014-12-21T22:18:26.000Z</published>
-    <updated>2014-12-21T22:18:26.000Z</updated>
-    <content type="html"><![CDATA[]]></content>
-    <summary type="html">
-    <![CDATA[]]>
     </summary>
     
   </entry>
